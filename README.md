@@ -18,25 +18,20 @@
 
 ## 🖼️ App Screenshots
 
-### 💾 Logo
-    <p align="center">
-      <img src="images/Logo.png" width="180" height="180">
-    </p>
-
 ### 🏠 Home Screen
-    <p align="center">
+<p align="center">
       <img src="images/HomeScreen.png" width="320" height="640">
-    </p>
+</p>
 
 ### ➕ Add Entries Screen
-    <p align="center">
+<p align="center">
       <img src="images/AddEntries.png" width="320" height="640">
-    </p>
+</p>
 
 ### 💾 Save Entries Screen
-    <p align="center">
+<p align="center">
       <img src="images/SaveEntries.png" width="320" height="640">
-    </p>
+</p>
 ---
 
 ## 🛠️ Tech Stack
