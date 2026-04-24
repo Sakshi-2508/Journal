@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.MyJournal" parent="Theme.MaterialComponents.Light" />
+</resources>
