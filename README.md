@@ -19,22 +19,24 @@
 ## 🖼️ App Screenshots
 
 ### 💾 Logo
-
-![Logo](images/Logo.png)
-
+    <p align="center">
+      <img src="images/Logo.png" width="180" height="180">
+    </p>
 
 ### 🏠 Home Screen
-
-![Home Screen](images/HomeScreen.png)
+    <p align="center">
+      <img src="images/HomeScreen.png" width="320" height="640">
+    </p>
 
 ### ➕ Add Entries Screen
-
-![Add Entries](images/AddEntries.png)
+    <p align="center">
+      <img src="images/AddEntries.png" width="320" height="640">
+    </p>
 
 ### 💾 Save Entries Screen
-
-![Save Entries](images/SaveEntries.png)
-
+    <p align="center">
+      <img src="images/SaveEntries.png" width="320" height="640">
+    </p>
 ---
 
 ## 🛠️ Tech Stack
