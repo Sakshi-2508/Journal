@@ -18,21 +18,11 @@
 
 ## 🖼️ App Screenshots
 
-### 🏠 Home Screen
 <p align="center">
-      <img src="images/HomeScreen.png" width="320" height="640">
+  <img src="images/HomeScreen.png" width="260" height="520">
+  <img src="images/AddEntries.png" width="260" height="520">
+  <img src="images/SaveEntries.png" width="260" height="520">
 </p>
-
-### ➕ Add Entries Screen
-<p align="center">
-      <img src="images/AddEntries.png" width="320" height="640">
-</p>
-
-### 💾 Save Entries Screen
-<p align="center">
-      <img src="images/SaveEntries.png" width="320" height="640">
-</p>
----
 
 ## 🛠️ Tech Stack
 
